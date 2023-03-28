@@ -1,5 +1,5 @@
    let score = 0;
-   const gameButton = document.getElementById('gameButton');
+   const gameButton = document.getElementById('GameButton');
    const scoreDisplay = document.getElementById('score');
 
    gameButton.addEventListener('click', () => {
